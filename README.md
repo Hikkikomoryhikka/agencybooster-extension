@@ -4,6 +4,8 @@
 
 **[⬇ Скачать последнюю версию](https://github.com/Hikkikomoryhikka/agencybooster-extension/releases/latest)** → в разделе «Assets» нажми на файл `AgencyBooster-extension-….zip`.
 
+> ⚠ Скачивай **только** файл `AgencyBooster-extension-….zip`. Строчки «Source code (zip)» и «Source code (tar.gz)» GitHub добавляет сам — в них только эта инструкция, расширения там нет.
+
 ## 🧩 Установка (один раз)
 
 1. Распакуй скачанный zip в папку, которую не будешь удалять (например, `Документы\AgencyBooster`).
